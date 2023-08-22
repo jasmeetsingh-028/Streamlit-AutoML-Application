@@ -16,7 +16,6 @@ with st.sidebar:
     st.title("AutoML Application")
     choice = st.radio("Navigation", ["Upload Data", "Auto Profiling", "ML", "Download"])
     st.info("Build your own automated Machine Learning pipeline using Streamlit, Pandas Profiling and PyCaret.")
-st.write("Hello World")
 
 if os.path.exists("source_data.csv"):
     df = pd.read_csv("source_data.csv", index_col = None)
