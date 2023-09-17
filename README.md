@@ -38,7 +38,4 @@ To run the Streamlit AutoML Application locally or integrate it into your own en
 ## Feedback and Issues
 If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please feel free to create an issue on the GitHub repository associated with this application.
 
-## License
-This Streamlit AutoML Application is open-source and available under the [MIT License](LICENSE).
-
-Thank you for using the Streamlit AutoML Application! We hope it helps you streamline your machine learning projects and make data-driven decisions more efficiently.
+Thank you for using the Streamlit AutoML Application! I hope it helps you streamline your machine learning projects and make data-driven decisions more efficiently.
