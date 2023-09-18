@@ -1,9 +1,9 @@
 # Streamlit AutoML Application
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-orange)](https://app-automl-application-5svqmxkkhppvh8rf9g4xak.streamlit.app/)
+
 
 Welcome to the Streamlit AutoML Application! This application is designed to simplify and streamline the process of building, evaluating, and deploying machine learning models using PyCaret and Pandas-Profiling. With this user-friendly interface, you can quickly and effortlessly perform data analysis, model training, and prediction tasks.
 
-## Application Link
-You can access the application online by following this link: [Streamlit AutoML Application](https://app-automl-application-5svqmxkkhppvh8rf9g4xak.streamlit.app/)
 
 ## Features
 - **Data Import**: Upload your dataset or connect to external data sources to start your machine learning project.
